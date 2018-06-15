@@ -24,5 +24,6 @@ Use Pip command to install  these Dependencies
 #usage
 
 Download those files (.csv and .py) and place them in same directory navigate to that directory in spyder and run the python file
+To run code first select the code and later use ctrl+enter
 
 make sure both files are in same folder
